@@ -1,0 +1,16 @@
+/* styles.css */
+
+h1, h2                 /* grouping to make one rule */
+ {
+    font-family: sans-serif;
+    color:gray;
+    
+ }
+
+ h1 {border-bottom: 2px solid black;}
+
+ p {color:maroon;
+    font-family: sans-serif;
+}
+
+ li {color:maroon;}
